@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-11-4368de1",
+    "version": "0.1",
+    "build": "11",
+    "sha": "4368de1",
+    "notes": "Visual feedback: engine swivel, push arrow, ENGINE bar, finger markers per control and a hint line.",
+    "date": "2026-11-11T13:42:46+00:00",
+    "size": 1888516,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-11-4368de1/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-11-4368de1/manifest.plist"
+  },
+  {
     "name": "0.1-10-0bb15c1",
     "version": "0.1",
     "build": "10",
