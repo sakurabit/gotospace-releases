@@ -1,0 +1,13 @@
+[
+  {
+    "name": "0.1-10-0bb15c1",
+    "version": "0.1",
+    "build": "10",
+    "sha": "0bb15c1",
+    "notes": "Feel prototype: plain-shapes climb. Try the three finger options in the tuning panel (top right).",
+    "date": "2026-11-11T12:22:13+00:00",
+    "size": 1883793,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-10-0bb15c1/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-10-0bb15c1/manifest.plist"
+  }
+]
