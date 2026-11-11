@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-12-9b87104",
+    "version": "0.1",
+    "build": "12",
+    "sha": "9b87104",
+    "notes": "AUTO button: autopilot flies the climb to space and loops so you can watch it.",
+    "date": "2026-11-11T13:53:24+00:00",
+    "size": 1892193,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-12-9b87104/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-12-9b87104/manifest.plist"
+  },
+  {
     "name": "0.1-11-4368de1",
     "version": "0.1",
     "build": "11",
