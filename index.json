@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-43-39684a6",
+    "version": "0.1",
+    "build": "43",
+    "sha": "39684a6",
+    "notes": "New Metal renderer: cartoon rocket with ink outlines, a real orange flame, 120 fps. Plays the same as before. Debug panel shows frame time and can switch back to the old renderer.",
+    "date": "2026-11-12T12:45:27+00:00",
+    "size": 2019313,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-43-39684a6/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-43-39684a6/manifest.plist"
+  },
+  {
     "name": "0.1-33-11457fd",
     "version": "0.1",
     "build": "33",
@@ -42,16 +53,5 @@
     "size": 1928987,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-29-c3ca0f5/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-29-c3ca0f5/manifest.plist"
-  },
-  {
-    "name": "0.1-28-f13f78c",
-    "version": "0.1",
-    "build": "28",
-    "sha": "f13f78c",
-    "notes": "Two-stage flight: separate, then open the cap and release the satellite from the upper stage. Guide line and camera ease in and out. Soundtrack fades at the end. Engine line follows the rocket. Old flow in Tuning.",
-    "date": "2026-11-12T05:50:17+00:00",
-    "size": 1927967,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-28-f13f78c/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-28-f13f78c/manifest.plist"
   }
 ]
