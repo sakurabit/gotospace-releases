@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-60-2ea67fc",
+    "version": "0.1",
+    "build": "60",
+    "sha": "2ea67fc",
+    "notes": "Smooth motion (no more stutter), big smoke: venting, water deluge, ignition steam cloud, exhaust trail, landing dust. Flame trench and swinging access arm. New Falcon app icon. Gusts off by default. Debug panel: Sync overlays switch and Hitches counter.",
+    "date": "2026-11-12T16:14:27+00:00",
+    "size": 7064029,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-60-2ea67fc/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-60-2ea67fc/manifest.plist"
+  },
+  {
     "name": "0.1-43-39684a6",
     "version": "0.1",
     "build": "43",
@@ -42,16 +53,5 @@
     "size": 1932353,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-31-456aa21/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-31-456aa21/manifest.plist"
-  },
-  {
-    "name": "0.1-29-c3ca0f5",
-    "version": "0.1",
-    "build": "29",
-    "sha": "c3ca0f5",
-    "notes": "Smooth stage separation: the camera, outline, puff and flames now ease instead of popping. Includes the two-stage flight from build 28.",
-    "date": "2026-11-12T06:05:22+00:00",
-    "size": 1928987,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-29-c3ca0f5/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-29-c3ca0f5/manifest.plist"
   }
 ]
