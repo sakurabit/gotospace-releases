@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-33-11457fd",
+    "version": "0.1",
+    "build": "33",
+    "sha": "11457fd",
+    "notes": "Climb holds about 20\u00b0 above horizontal and stages from there, no more going flat and pitching back up. Engine cut comes while still climbing.",
+    "date": "2026-11-12T10:59:32+00:00",
+    "size": 1934177,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-33-11457fd/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-33-11457fd/manifest.plist"
+  },
+  {
     "name": "0.1-32-9c120a2",
     "version": "0.1",
     "build": "32",
@@ -42,16 +53,5 @@
     "size": 1927967,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-28-f13f78c/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-28-f13f78c/manifest.plist"
-  },
-  {
-    "name": "0.1-24-4aa1ac8",
-    "version": "0.1",
-    "build": "24",
-    "sha": "4aa1ac8",
-    "notes": "Flip is clear now: a ghost rocket shows the target pose (nose chevrons, engine at the base), WRONG WAY warning when turned around, and a clear failure message.",
-    "date": "2026-11-12T02:40:12+00:00",
-    "size": 1917893,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-24-4aa1ac8/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-24-4aa1ac8/manifest.plist"
   }
 ]
