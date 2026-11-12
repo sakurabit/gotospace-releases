@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-32-9c120a2",
+    "version": "0.1",
+    "build": "32",
+    "sha": "9c120a2",
+    "notes": "The engine swings to your finger's command instead of jumping: up to 0.25 s from centre to full, small corrections immediate. Tunable in Tuning (Engine reaction time).",
+    "date": "2026-11-12T08:27:58+00:00",
+    "size": 1933918,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-32-9c120a2/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-32-9c120a2/manifest.plist"
+  },
+  {
     "name": "0.1-31-456aa21",
     "version": "0.1",
     "build": "31",
@@ -42,16 +53,5 @@
     "size": 1917893,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-24-4aa1ac8/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-24-4aa1ac8/manifest.plist"
-  },
-  {
-    "name": "0.1-23-72aea64",
-    "version": "0.1",
-    "build": "23",
-    "sha": "72aea64",
-    "notes": "Full flight: climb, flat orbit, dramatic payload release, fall and flip, grid-fin re-entry, landing on a pad ahead. AUTO flies it all.",
-    "date": "2026-11-11T16:58:20+00:00",
-    "size": 1916226,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-23-72aea64/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-23-72aea64/manifest.plist"
   }
 ]
