@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-24-4aa1ac8",
+    "version": "0.1",
+    "build": "24",
+    "sha": "4aa1ac8",
+    "notes": "Flip is clear now: a ghost rocket shows the target pose (nose chevrons, engine at the base), WRONG WAY warning when turned around, and a clear failure message.",
+    "date": "2026-11-12T02:40:12+00:00",
+    "size": 1917893,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-24-4aa1ac8/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-24-4aa1ac8/manifest.plist"
+  },
+  {
     "name": "0.1-23-72aea64",
     "version": "0.1",
     "build": "23",
