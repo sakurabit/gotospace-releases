@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-64-d365c47",
+    "version": "0.1",
+    "build": "64",
+    "sha": "d365c47",
+    "notes": "Fixes the once-a-second freeze and the liftoff hitch: music no longer blocks drawing",
+    "date": "2026-11-13T02:04:39+00:00",
+    "size": 7066661,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-64-d365c47/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-64-d365c47/manifest.plist"
+  },
+  {
     "name": "0.1-60-2ea67fc",
     "version": "0.1",
     "build": "60",
@@ -42,16 +53,5 @@
     "size": 1933918,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-32-9c120a2/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-32-9c120a2/manifest.plist"
-  },
-  {
-    "name": "0.1-31-456aa21",
-    "version": "0.1",
-    "build": "31",
-    "sha": "456aa21",
-    "notes": "Stage separates pitched up with a burst of venting gas and icy flecks. Autopilot pauses 1.5 s before each tap. Soundtrack no longer restarts mid-flight.",
-    "date": "2026-11-12T08:04:45+00:00",
-    "size": 1932353,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-31-456aa21/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-31-456aa21/manifest.plist"
   }
 ]
