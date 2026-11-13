@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-72-02c5ecb",
+    "version": "0.1",
+    "build": "72",
+    "sha": "02c5ecb",
+    "notes": "Clouds to fly through, a vapor cone at max-Q, the sky turning black and Earth's limb rising into view. The gravity turn now starts gently at 1 km and never swings faster than 2.5 degrees a second in thick air; leaning past the limit gives you 0.7 s to come back, with the LEAN bar flashing red.",
+    "date": "2026-11-13T15:03:32+00:00",
+    "size": 7084293,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-72-02c5ecb/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-72-02c5ecb/manifest.plist"
+  },
+  {
     "name": "0.1-68-e362152",
     "version": "0.1",
     "build": "68",
@@ -42,16 +53,5 @@
     "size": 7064029,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-60-2ea67fc/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-60-2ea67fc/manifest.plist"
-  },
-  {
-    "name": "0.1-43-39684a6",
-    "version": "0.1",
-    "build": "43",
-    "sha": "39684a6",
-    "notes": "New Metal renderer: cartoon rocket with ink outlines, a real orange flame, 120 fps. Plays the same as before. Debug panel shows frame time and can switch back to the old renderer.",
-    "date": "2026-11-12T12:45:27+00:00",
-    "size": 2019313,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-43-39684a6/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-43-39684a6/manifest.plist"
   }
 ]
