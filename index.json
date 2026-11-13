@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-66-87439e5",
+    "version": "0.1",
+    "build": "66",
+    "sha": "87439e5",
+    "notes": "Fixes the crash about a minute into a flight (music fade); keeps the smooth-frames fix from 64",
+    "date": "2026-11-13T03:36:51+00:00",
+    "size": 7066077,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-66-87439e5/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-66-87439e5/manifest.plist"
+  },
+  {
     "name": "0.1-64-d365c47",
     "version": "0.1",
     "build": "64",
@@ -42,16 +53,5 @@
     "size": 1934177,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-33-11457fd/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-33-11457fd/manifest.plist"
-  },
-  {
-    "name": "0.1-32-9c120a2",
-    "version": "0.1",
-    "build": "32",
-    "sha": "9c120a2",
-    "notes": "The engine swings to your finger's command instead of jumping: up to 0.25 s from centre to full, small corrections immediate. Tunable in Tuning (Engine reaction time).",
-    "date": "2026-11-12T08:27:58+00:00",
-    "size": 1933918,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-32-9c120a2/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-32-9c120a2/manifest.plist"
   }
 ]
