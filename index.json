@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-76-53aa8a3",
+    "version": "0.1",
+    "build": "76",
+    "sha": "53aa8a3",
+    "notes": "Return moments: re-entry fire with plasma, sparks and soot that stays; the landing burn lights with a flash and a shock ring, blasts dust and steam along the ground, and the legs snap out; a breakup now explodes with a flash, a fireball turning to black smoke and tumbling debris before the card appears.",
+    "date": "2026-11-13T16:35:29+00:00",
+    "size": 7107298,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/manifest.plist"
+  },
+  {
     "name": "0.1-74-30d0863",
     "version": "0.1",
     "build": "74",
@@ -42,16 +53,5 @@
     "size": 7066077,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-66-87439e5/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-66-87439e5/manifest.plist"
-  },
-  {
-    "name": "0.1-64-d365c47",
-    "version": "0.1",
-    "build": "64",
-    "sha": "d365c47",
-    "notes": "Fixes the once-a-second freeze and the liftoff hitch: music no longer blocks drawing",
-    "date": "2026-11-13T02:04:39+00:00",
-    "size": 7066661,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-64-d365c47/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-64-d365c47/manifest.plist"
   }
 ]

@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-64-d365c47/GoToSpace.ipa</string>
+					<string>https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/GoToSpace.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -23,7 +23,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Go To Space 0.1 (64)</string>
+				<string>Go To Space 0.1 (76)</string>
 			</dict>
 		</dict>
 	</array>
