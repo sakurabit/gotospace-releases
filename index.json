@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-78-cdb7ef0",
+    "version": "0.1",
+    "build": "78",
+    "sha": "cdb7ef0",
+    "notes": "Mission timeline: a webcast-style wheel of milestones above the ENGINE and LEAN bars, turning under a centre mark, with the next milestone's estimate and a T+ clock. This completes Plan 2: every whoa moment and the timeline.",
+    "date": "2026-11-13T16:55:07+00:00",
+    "size": 7122939,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-78-cdb7ef0/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-78-cdb7ef0/manifest.plist"
+  },
+  {
     "name": "0.1-76-53aa8a3",
     "version": "0.1",
     "build": "76",
@@ -42,16 +53,5 @@
     "size": 7066696,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-68-e362152/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-68-e362152/manifest.plist"
-  },
-  {
-    "name": "0.1-66-87439e5",
-    "version": "0.1",
-    "build": "66",
-    "sha": "87439e5",
-    "notes": "Fixes the crash about a minute into a flight (music fade); keeps the smooth-frames fix from 64",
-    "date": "2026-11-13T03:36:51+00:00",
-    "size": 7066077,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-66-87439e5/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-66-87439e5/manifest.plist"
   }
 ]
