@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-84-c154fa0",
+    "version": "0.1",
+    "build": "84",
+    "sha": "c154fa0",
+    "notes": "Sound: a synthesized engine rumble that follows the flame and goes muffled in thin air, rushing air through max-Q and re-entry, a deep boom for a breakup and a thump on touchdown. These carry the flight after the soundtrack ends.",
+    "date": "2026-11-13T17:21:30+00:00",
+    "size": 7145110,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-84-c154fa0/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-84-c154fa0/manifest.plist"
+  },
+  {
     "name": "0.1-82-913b4e0",
     "version": "0.1",
     "build": "82",
@@ -42,16 +53,5 @@
     "size": 7107298,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/manifest.plist"
-  },
-  {
-    "name": "0.1-74-30d0863",
-    "version": "0.1",
-    "build": "74",
-    "sha": "30d0863",
-    "notes": "Orbit moments: the plume blooms as the air thins and the upper stage lights with a flash. The upper stage's inset is redrawn in the cartoon look: the cap pops off and tumbles away, the satellite unfolds its wings in steps, raises its dish and catches the sun over Earth's limb.",
-    "date": "2026-11-13T15:56:52+00:00",
-    "size": 7096848,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-74-30d0863/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-74-30d0863/manifest.plist"
   }
 ]
