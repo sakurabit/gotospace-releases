@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-82-913b4e0",
+    "version": "0.1",
+    "build": "82",
+    "sha": "913b4e0",
+    "notes": "Cartoon HUD: altitude and speed in white outlined pills, a fat fuel gauge that turns yellow then red as it runs low, and chunkier ENGINE and LEAN bars.",
+    "date": "2026-11-13T17:12:18+00:00",
+    "size": 7139496,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-82-913b4e0/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-82-913b4e0/manifest.plist"
+  },
+  {
     "name": "0.1-80-6b51068",
     "version": "0.1",
     "build": "80",
@@ -42,16 +53,5 @@
     "size": 7096848,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-74-30d0863/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-74-30d0863/manifest.plist"
-  },
-  {
-    "name": "0.1-72-02c5ecb",
-    "version": "0.1",
-    "build": "72",
-    "sha": "02c5ecb",
-    "notes": "Clouds to fly through, a vapor cone at max-Q, the sky turning black and Earth's limb rising into view. The gravity turn now starts gently at 1 km and never swings faster than 2.5 degrees a second in thick air; leaning past the limit gives you 0.7 s to come back, with the LEAN bar flashing red.",
-    "date": "2026-11-13T15:03:32+00:00",
-    "size": 7084293,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-72-02c5ecb/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-72-02c5ecb/manifest.plist"
   }
 ]
