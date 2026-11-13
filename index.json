@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-68-e362152",
+    "version": "0.1",
+    "build": "68",
+    "sha": "e362152",
+    "notes": "Upper-stage inset appears only once the stage leaves the screen. Finished flights wait for a tap instead of restarting on autopilot.",
+    "date": "2026-11-13T11:17:03+00:00",
+    "size": 7066696,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-68-e362152/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-68-e362152/manifest.plist"
+  },
+  {
     "name": "0.1-66-87439e5",
     "version": "0.1",
     "build": "66",
@@ -42,16 +53,5 @@
     "size": 2019313,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-43-39684a6/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-43-39684a6/manifest.plist"
-  },
-  {
-    "name": "0.1-33-11457fd",
-    "version": "0.1",
-    "build": "33",
-    "sha": "11457fd",
-    "notes": "Climb holds about 20\u00b0 above horizontal and stages from there, no more going flat and pitching back up. Engine cut comes while still climbing.",
-    "date": "2026-11-12T10:59:32+00:00",
-    "size": 1934177,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-33-11457fd/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-33-11457fd/manifest.plist"
   }
 ]
