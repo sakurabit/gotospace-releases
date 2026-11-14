@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-86-2103d02",
+    "version": "0.1",
+    "build": "86",
+    "sha": "2103d02",
+    "notes": "Smoke and clouds over the rocket are no longer capped at 50%",
+    "date": "2026-11-14T00:07:05+00:00",
+    "size": 7145091,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-86-2103d02/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-86-2103d02/manifest.plist"
+  },
+  {
     "name": "0.1-84-c154fa0",
     "version": "0.1",
     "build": "84",
@@ -42,16 +53,5 @@
     "size": 7122939,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-78-cdb7ef0/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-78-cdb7ef0/manifest.plist"
-  },
-  {
-    "name": "0.1-76-53aa8a3",
-    "version": "0.1",
-    "build": "76",
-    "sha": "53aa8a3",
-    "notes": "Return moments: re-entry fire with plasma, sparks and soot that stays; the landing burn lights with a flash and a shock ring, blasts dust and steam along the ground, and the legs snap out; a breakup now explodes with a flash, a fireball turning to black smoke and tumbling debris before the card appears.",
-    "date": "2026-11-13T16:35:29+00:00",
-    "size": 7107298,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-76-53aa8a3/manifest.plist"
   }
 ]
