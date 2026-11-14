@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-88-b2f2fcb",
+    "version": "0.1",
+    "build": "88",
+    "sha": "b2f2fcb",
+    "notes": "New app icon: photographic daylight Falcon liftoff",
+    "date": "2026-11-14T13:48:15+00:00",
+    "size": 10851367,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-88-b2f2fcb/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-88-b2f2fcb/manifest.plist"
+  },
+  {
     "name": "0.1-86-2103d02",
     "version": "0.1",
     "build": "86",
@@ -42,16 +53,5 @@
     "size": 7136977,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-80-6b51068/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-80-6b51068/manifest.plist"
-  },
-  {
-    "name": "0.1-78-cdb7ef0",
-    "version": "0.1",
-    "build": "78",
-    "sha": "cdb7ef0",
-    "notes": "Mission timeline: a webcast-style wheel of milestones above the ENGINE and LEAN bars, turning under a centre mark, with the next milestone's estimate and a T+ clock. This completes Plan 2: every whoa moment and the timeline.",
-    "date": "2026-11-13T16:55:07+00:00",
-    "size": 7122939,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-78-cdb7ef0/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-78-cdb7ef0/manifest.plist"
   }
 ]
