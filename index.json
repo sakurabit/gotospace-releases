@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-92-c9fc6b2",
+    "version": "0.1",
+    "build": "92",
+    "sha": "c9fc6b2",
+    "notes": "Start page: live pad with crew and trucks, Go To Space logo, LAUNCH run-away",
+    "date": "2026-11-14T14:07:19+00:00",
+    "size": 10885740,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-92-c9fc6b2/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-92-c9fc6b2/manifest.plist"
+  },
+  {
     "name": "0.1-90-066beb2",
     "version": "0.1",
     "build": "90",
@@ -42,16 +53,5 @@
     "size": 7145110,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-84-c154fa0/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-84-c154fa0/manifest.plist"
-  },
-  {
-    "name": "0.1-82-913b4e0",
-    "version": "0.1",
-    "build": "82",
-    "sha": "913b4e0",
-    "notes": "Cartoon HUD: altitude and speed in white outlined pills, a fat fuel gauge that turns yellow then red as it runs low, and chunkier ENGINE and LEAN bars.",
-    "date": "2026-11-13T17:12:18+00:00",
-    "size": 7139496,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-82-913b4e0/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-82-913b4e0/manifest.plist"
   }
 ]
