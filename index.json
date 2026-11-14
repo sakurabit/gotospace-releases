@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-90-066beb2",
+    "version": "0.1",
+    "build": "90",
+    "sha": "066beb2",
+    "notes": "Earth drifts slowly instead of rushing past",
+    "date": "2026-11-14T13:55:18+00:00",
+    "size": 10851322,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-90-066beb2/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-90-066beb2/manifest.plist"
+  },
+  {
     "name": "0.1-88-b2f2fcb",
     "version": "0.1",
     "build": "88",
@@ -42,16 +53,5 @@
     "size": 7139496,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-82-913b4e0/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-82-913b4e0/manifest.plist"
-  },
-  {
-    "name": "0.1-80-6b51068",
-    "version": "0.1",
-    "build": "80",
-    "sha": "6b51068",
-    "notes": "Score: a landed flight is scored out of 10,000 (fuel, calm hands, following the guide, a clean release, pad centre, soft and upright touchdown), with a breakdown and your best score kept on the phone. Flights AUTO touched don't count as a best.",
-    "date": "2026-11-13T17:07:13+00:00",
-    "size": 7136977,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-80-6b51068/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-80-6b51068/manifest.plist"
   }
 ]
