@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-103-fa7da20",
+    "version": "0.1",
+    "build": "103",
+    "sha": "fa7da20",
+    "notes": "Photo look step 1: switch and photo rocket",
+    "date": "2026-11-15T08:06:58+00:00",
+    "size": 11106384,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-103-fa7da20/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-103-fa7da20/manifest.plist"
+  },
+  {
     "name": "0.1-102-899d064",
     "version": "0.1",
     "build": "102",
@@ -42,16 +53,5 @@
     "size": 10885740,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-92-c9fc6b2/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-92-c9fc6b2/manifest.plist"
-  },
-  {
-    "name": "0.1-90-066beb2",
-    "version": "0.1",
-    "build": "90",
-    "sha": "066beb2",
-    "notes": "Earth drifts slowly instead of rushing past",
-    "date": "2026-11-14T13:55:18+00:00",
-    "size": 10851322,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-90-066beb2/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-90-066beb2/manifest.plist"
   }
 ]
