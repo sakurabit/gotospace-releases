@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-100-2d69a09",
+    "version": "0.1",
+    "build": "100",
+    "sha": "2d69a09",
+    "notes": "Every flight now scores the distance it flew, crashes included. A landing adds the landing score on top. Sign the board after any flight.",
+    "date": "2026-11-15T06:31:53+00:00",
+    "size": 11018668,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-100-2d69a09/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-100-2d69a09/manifest.plist"
+  },
+  {
     "name": "0.1-99-82acd4c",
     "version": "0.1",
     "build": "99",
@@ -42,16 +53,5 @@
     "size": 10851367,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-88-b2f2fcb/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-88-b2f2fcb/manifest.plist"
-  },
-  {
-    "name": "0.1-86-2103d02",
-    "version": "0.1",
-    "build": "86",
-    "sha": "2103d02",
-    "notes": "Smoke and clouds over the rocket are no longer capped at 50%",
-    "date": "2026-11-14T00:07:05+00:00",
-    "size": 7145091,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-86-2103d02/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-86-2103d02/manifest.plist"
   }
 ]
