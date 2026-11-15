@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-111-8a164b4",
+    "version": "1.0",
+    "build": "111",
+    "sha": "8a164b4",
+    "notes": "Falcon engines (octaweb, three Merlins, Merlin Vacuum) and a clear rocket in flight",
+    "date": "2026-11-15T12:10:44+00:00",
+    "size": 12101319,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-111-8a164b4/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-111-8a164b4/manifest.plist"
+  },
+  {
     "name": "1.0-110-bfb389f",
     "version": "1.0",
     "build": "110",
@@ -42,16 +53,5 @@
     "size": 11125517,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-106-ec1d244/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-106-ec1d244/manifest.plist"
-  },
-  {
-    "name": "0.1-105-5770fcc",
-    "version": "0.1",
-    "build": "105",
-    "sha": "5770fcc",
-    "notes": "Name keyboard for the board (no more wheels). Earth holds still on the climb. ALT/SPD pills fixed, timeline names curve along the arc.",
-    "date": "2026-11-15T08:53:23+00:00",
-    "size": 11118324,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-105-5770fcc/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-105-5770fcc/manifest.plist"
   }
 ]
