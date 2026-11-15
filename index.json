@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-99-82acd4c",
+    "version": "0.1",
+    "build": "99",
+    "sha": "82acd4c",
+    "notes": "Top scores: sign the board with 6 letter wheels after a landing, see your weekly and all-time rank, Top scores on the start page. Flights landed offline post later.",
+    "date": "2026-11-15T05:27:09+00:00",
+    "size": 11017304,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-99-82acd4c/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-99-82acd4c/manifest.plist"
+  },
+  {
     "name": "0.1-92-c9fc6b2",
     "version": "0.1",
     "build": "92",
@@ -42,16 +53,5 @@
     "size": 7145091,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-86-2103d02/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-86-2103d02/manifest.plist"
-  },
-  {
-    "name": "0.1-84-c154fa0",
-    "version": "0.1",
-    "build": "84",
-    "sha": "c154fa0",
-    "notes": "Sound: a synthesized engine rumble that follows the flame and goes muffled in thin air, rushing air through max-Q and re-entry, a deep boom for a breakup and a thump on touchdown. These carry the flight after the soundtrack ends.",
-    "date": "2026-11-13T17:21:30+00:00",
-    "size": 7145110,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-84-c154fa0/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-84-c154fa0/manifest.plist"
   }
 ]
