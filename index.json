@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-114-94735c3",
+    "version": "1.0",
+    "build": "114",
+    "sha": "94735c3",
+    "notes": "",
+    "date": "2026-11-15T23:45:32+00:00",
+    "size": 12101380,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-114-94735c3/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-114-94735c3/manifest.plist"
+  },
+  {
     "name": "1.0-111-8a164b4",
     "version": "1.0",
     "build": "111",
@@ -42,16 +53,5 @@
     "size": 12087540,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-108-4bc5984/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-108-4bc5984/manifest.plist"
-  },
-  {
-    "name": "0.1-106-ec1d244",
-    "version": "0.1",
-    "build": "106",
-    "sha": "ec1d244",
-    "notes": "Photo look step 2: lit smoke, white-hot flame; photo rocket stays visible in flight",
-    "date": "2026-11-15T08:56:28+00:00",
-    "size": 11125517,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-106-ec1d244/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-106-ec1d244/manifest.plist"
   }
 ]
