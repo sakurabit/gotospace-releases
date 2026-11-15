@@ -1,5 +1,16 @@
 [
   {
+    "name": "0.1-102-899d064",
+    "version": "0.1",
+    "build": "102",
+    "sha": "899d064",
+    "notes": "First flight shows a quick balance tip at T-0 (once). Start page no longer shows the hint line.",
+    "date": "2026-11-15T08:03:58+00:00",
+    "size": 11028991,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-102-899d064/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-102-899d064/manifest.plist"
+  },
+  {
     "name": "0.1-100-2d69a09",
     "version": "0.1",
     "build": "100",
@@ -42,16 +53,5 @@
     "size": 10851322,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-90-066beb2/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-90-066beb2/manifest.plist"
-  },
-  {
-    "name": "0.1-88-b2f2fcb",
-    "version": "0.1",
-    "build": "88",
-    "sha": "b2f2fcb",
-    "notes": "New app icon: photographic daylight Falcon liftoff",
-    "date": "2026-11-14T13:48:15+00:00",
-    "size": 10851367,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-88-b2f2fcb/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-88-b2f2fcb/manifest.plist"
   }
 ]
