@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-110-bfb389f",
+    "version": "1.0",
+    "build": "110",
+    "sha": "bfb389f",
+    "notes": "Photo look step 4: concrete pad, steel tower, natural ground, softer crew",
+    "date": "2026-11-15T12:03:17+00:00",
+    "size": 12100673,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-110-bfb389f/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-110-bfb389f/manifest.plist"
+  },
+  {
     "name": "1.0-109-8a6512a",
     "version": "1.0",
     "build": "109",
@@ -42,16 +53,5 @@
     "size": 11118324,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-105-5770fcc/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-105-5770fcc/manifest.plist"
-  },
-  {
-    "name": "0.1-103-fa7da20",
-    "version": "0.1",
-    "build": "103",
-    "sha": "fa7da20",
-    "notes": "Photo look step 1: switch and photo rocket",
-    "date": "2026-11-15T08:06:58+00:00",
-    "size": 11106384,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-103-fa7da20/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-103-fa7da20/manifest.plist"
   }
 ]
