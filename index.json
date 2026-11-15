@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-108-4bc5984",
+    "version": "1.0",
+    "build": "108",
+    "sha": "4bc5984",
+    "notes": "Photo look step 3: photographic sky, lit clouds, NASA Blue Marble Earth",
+    "date": "2026-11-15T11:40:21+00:00",
+    "size": 12087540,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-108-4bc5984/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-108-4bc5984/manifest.plist"
+  },
+  {
     "name": "0.1-106-ec1d244",
     "version": "0.1",
     "build": "106",
@@ -42,16 +53,5 @@
     "size": 11028991,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-102-899d064/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-102-899d064/manifest.plist"
-  },
-  {
-    "name": "0.1-100-2d69a09",
-    "version": "0.1",
-    "build": "100",
-    "sha": "2d69a09",
-    "notes": "Every flight now scores the distance it flew, crashes included. A landing adds the landing score on top. Sign the board after any flight.",
-    "date": "2026-11-15T06:31:53+00:00",
-    "size": 11018668,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-100-2d69a09/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-100-2d69a09/manifest.plist"
   }
 ]
