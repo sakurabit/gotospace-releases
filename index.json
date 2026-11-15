@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-109-8a6512a",
+    "version": "1.0",
+    "build": "109",
+    "sha": "8a6512a",
+    "notes": "Falcon silhouette: wide fairing, long black interstage, stowed grid fins, folded legs",
+    "date": "2026-11-15T11:56:35+00:00",
+    "size": 12094489,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-109-8a6512a/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-109-8a6512a/manifest.plist"
+  },
+  {
     "name": "1.0-108-4bc5984",
     "version": "1.0",
     "build": "108",
@@ -42,16 +53,5 @@
     "size": 11106384,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-103-fa7da20/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-103-fa7da20/manifest.plist"
-  },
-  {
-    "name": "0.1-102-899d064",
-    "version": "0.1",
-    "build": "102",
-    "sha": "899d064",
-    "notes": "First flight shows a quick balance tip at T-0 (once). Start page no longer shows the hint line.",
-    "date": "2026-11-15T08:03:58+00:00",
-    "size": 11028991,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-102-899d064/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/0.1-102-899d064/manifest.plist"
   }
 ]
