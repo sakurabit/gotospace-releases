@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-120-1f88898",
+    "version": "1.0",
+    "build": "120",
+    "sha": "1f88898",
+    "notes": "",
+    "date": "2026-11-16T04:08:00+00:00",
+    "size": 12129165,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-120-1f88898/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-120-1f88898/manifest.plist"
+  },
+  {
     "name": "1.0-116-91de82d",
     "version": "1.0",
     "build": "116",
@@ -42,16 +53,5 @@
     "size": 12100673,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-110-bfb389f/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-110-bfb389f/manifest.plist"
-  },
-  {
-    "name": "1.0-109-8a6512a",
-    "version": "1.0",
-    "build": "109",
-    "sha": "8a6512a",
-    "notes": "Falcon silhouette: wide fairing, long black interstage, stowed grid fins, folded legs",
-    "date": "2026-11-15T11:56:35+00:00",
-    "size": 12094489,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-109-8a6512a/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-109-8a6512a/manifest.plist"
   }
 ]
