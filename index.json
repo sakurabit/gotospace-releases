@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-122-9d2177f",
+    "version": "1.0",
+    "build": "122",
+    "sha": "9d2177f",
+    "notes": "",
+    "date": "2026-11-16T05:45:05+00:00",
+    "size": 12138639,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-122-9d2177f/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-122-9d2177f/manifest.plist"
+  },
+  {
     "name": "1.0-121-a63dff0",
     "version": "1.0",
     "build": "121",
@@ -42,16 +53,5 @@
     "size": 12101380,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-114-94735c3/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-114-94735c3/manifest.plist"
-  },
-  {
-    "name": "1.0-111-8a164b4",
-    "version": "1.0",
-    "build": "111",
-    "sha": "8a164b4",
-    "notes": "Falcon engines (octaweb, three Merlins, Merlin Vacuum) and a clear rocket in flight",
-    "date": "2026-11-15T12:10:44+00:00",
-    "size": 12101319,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-111-8a164b4/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-111-8a164b4/manifest.plist"
   }
 ]
