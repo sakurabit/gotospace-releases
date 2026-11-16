@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0-116-91de82d",
+    "version": "1.0",
+    "build": "116",
+    "sha": "91de82d",
+    "notes": "",
+    "date": "2026-11-16T02:58:26+00:00",
+    "size": 12123754,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-116-91de82d/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-116-91de82d/manifest.plist"
+  },
+  {
     "name": "1.0-114-94735c3",
     "version": "1.0",
     "build": "114",
@@ -42,16 +53,5 @@
     "size": 12094489,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-109-8a6512a/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-109-8a6512a/manifest.plist"
-  },
-  {
-    "name": "1.0-108-4bc5984",
-    "version": "1.0",
-    "build": "108",
-    "sha": "4bc5984",
-    "notes": "Photo look step 3: photographic sky, lit clouds, NASA Blue Marble Earth",
-    "date": "2026-11-15T11:40:21+00:00",
-    "size": 12087540,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-108-4bc5984/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-108-4bc5984/manifest.plist"
   }
 ]
