@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-122-9d2177f/GoToSpace.ipa</string>
+					<string>https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-133-43a71fb/GoToSpace.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.sakurabit.gotospace</string>
 				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Go To Space 1.0 (122)</string>
+				<string>Go To Space 1.0.1 (133)</string>
 			</dict>
 		</dict>
 	</array>

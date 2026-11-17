@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-133-43a71fb",
+    "version": "1.0.1",
+    "build": "133",
+    "sha": "43a71fb",
+    "notes": "The pad comes alive: coffee spills, a dog, a selfie, a nap, a pizza scooter, a balloon, a painter's smiley and a scaffold that is never finished",
+    "date": "2026-11-17T01:36:23+00:00",
+    "size": 12231501,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-133-43a71fb/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-133-43a71fb/manifest.plist"
+  },
+  {
     "name": "1.0.1-132-acfe093",
     "version": "1.0.1",
     "build": "132",
@@ -42,16 +53,5 @@
     "size": 12140190,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-123-fba4e67/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-123-fba4e67/manifest.plist"
-  },
-  {
-    "name": "1.0-122-9d2177f",
-    "version": "1.0",
-    "build": "122",
-    "sha": "9d2177f",
-    "notes": "",
-    "date": "2026-11-16T05:45:05+00:00",
-    "size": 12138639,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-122-9d2177f/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0-122-9d2177f/manifest.plist"
   }
 ]
