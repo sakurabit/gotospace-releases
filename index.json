@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-164-67d63d9",
+    "version": "1.0.1",
+    "build": "164",
+    "sha": "67d63d9",
+    "notes": "",
+    "date": "2026-11-18T09:35:31+00:00",
+    "size": 12282359,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-164-67d63d9/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-164-67d63d9/manifest.plist"
+  },
+  {
     "name": "1.0.1-140-082a5f7",
     "version": "1.0.1",
     "build": "140",
@@ -42,16 +53,5 @@
     "size": 12231501,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-133-43a71fb/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-133-43a71fb/manifest.plist"
-  },
-  {
-    "name": "1.0.1-132-acfe093",
-    "version": "1.0.1",
-    "build": "132",
-    "sha": "acfe093",
-    "notes": "Re-entry fire glows on the hull itself, only on the faces the air hits. The photographic look is now called Real.",
-    "date": "2026-11-16T16:30:20+00:00",
-    "size": 12181821,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-132-acfe093/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-132-acfe093/manifest.plist"
   }
 ]
