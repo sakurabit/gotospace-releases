@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-204-7d306b1",
+    "version": "1.0.1",
+    "build": "204",
+    "sha": "7d306b1",
+    "notes": "",
+    "date": "2026-11-19T12:02:21+00:00",
+    "size": 12388858,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-204-7d306b1/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-204-7d306b1/manifest.plist"
+  },
+  {
     "name": "1.0.1-203-f3aaf11",
     "version": "1.0.1",
     "build": "203",
@@ -42,16 +53,5 @@
     "size": 12382915,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-197-3ad9211/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-197-3ad9211/manifest.plist"
-  },
-  {
-    "name": "1.0.1-196-2cc64ee",
-    "version": "1.0.1",
-    "build": "196",
-    "sha": "2cc64ee",
-    "notes": "",
-    "date": "2026-11-19T08:41:47+00:00",
-    "size": 12383272,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-196-2cc64ee/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-196-2cc64ee/manifest.plist"
   }
 ]
