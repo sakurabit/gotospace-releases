@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-178-cc0f833",
+    "version": "1.0.1",
+    "build": "178",
+    "sha": "cc0f833",
+    "notes": "",
+    "date": "2026-11-19T00:10:21+00:00",
+    "size": 12293374,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-178-cc0f833/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-178-cc0f833/manifest.plist"
+  },
+  {
     "name": "1.0.1-175-007e9c4",
     "version": "1.0.1",
     "build": "175",
@@ -42,16 +53,5 @@
     "size": 12235530,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-136-0748d7b/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-136-0748d7b/manifest.plist"
-  },
-  {
-    "name": "1.0.1-134-bcebe8b",
-    "version": "1.0.1",
-    "build": "134",
-    "sha": "bcebe8b",
-    "notes": "Pad scenes on iPad and unfolded phones: people walk on from the real screen edge",
-    "date": "2026-11-17T03:05:46+00:00",
-    "size": 12234480,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-134-bcebe8b/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-134-bcebe8b/manifest.plist"
   }
 ]
