@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-236-4e3d88f",
+    "version": "1.0.1",
+    "build": "236",
+    "sha": "4e3d88f",
+    "notes": "Locked landing keeps the guide line on the booster (#155); wider panoramas, sky behind pad scenery (#154)",
+    "date": "2026-11-20T23:12:51+00:00",
+    "size": 79165274,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-236-4e3d88f/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-236-4e3d88f/manifest.plist"
+  },
+  {
     "name": "1.0.1-234-4c56ad9",
     "version": "1.0.1",
     "build": "234",
@@ -42,16 +53,5 @@
     "size": 79159748,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-231-c90d029/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-231-c90d029/manifest.plist"
-  },
-  {
-    "name": "1.0.1-230-a456792",
-    "version": "1.0.1",
-    "build": "230",
-    "sha": "a456792",
-    "notes": "",
-    "date": "2026-11-20T10:26:37+00:00",
-    "size": 79159567,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-230-a456792/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-230-a456792/manifest.plist"
   }
 ]
