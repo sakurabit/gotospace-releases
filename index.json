@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-234-4c56ad9",
+    "version": "1.0.1",
+    "build": "234",
+    "sha": "4c56ad9",
+    "notes": "Landing flight home, pad backdrops and panoramas, flame polish, result layout (#116\u2013#153)",
+    "date": "2026-11-20T22:43:49+00:00",
+    "size": 79164841,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-234-4c56ad9/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-234-4c56ad9/manifest.plist"
+  },
+  {
     "name": "1.0.1-233-7e0ff3b",
     "version": "1.0.1",
     "build": "233",
@@ -42,16 +53,5 @@
     "size": 79159567,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-230-a456792/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-230-a456792/manifest.plist"
-  },
-  {
-    "name": "1.0.1-229-45609c4",
-    "version": "1.0.1",
-    "build": "229",
-    "sha": "45609c4",
-    "notes": "",
-    "date": "2026-11-20T09:15:19+00:00",
-    "size": 79159556,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-229-45609c4/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-229-45609c4/manifest.plist"
   }
 ]
