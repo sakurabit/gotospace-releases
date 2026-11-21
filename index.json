@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-243-3ba19b0",
+    "version": "1.0.1",
+    "build": "243",
+    "sha": "3ba19b0",
+    "notes": "Open elevated launch stand under the rocket",
+    "date": "2026-11-21T11:35:37+00:00",
+    "size": 72247554,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-243-3ba19b0/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-243-3ba19b0/manifest.plist"
+  },
+  {
     "name": "1.0.1-242-f443140",
     "version": "1.0.1",
     "build": "242",
@@ -42,16 +53,5 @@
     "size": 79077039,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-238-afbcaa4/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-238-afbcaa4/manifest.plist"
-  },
-  {
-    "name": "1.0.1-237-6abe2db",
-    "version": "1.0.1",
-    "build": "237",
-    "sha": "6abe2db",
-    "notes": "Pad scenery reframed across the catalog, Himalayan launches (#156)",
-    "date": "2026-11-21T04:41:41+00:00",
-    "size": 79027158,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-237-6abe2db/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-237-6abe2db/manifest.plist"
   }
 ]
