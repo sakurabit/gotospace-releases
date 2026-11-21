@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-239-650808f",
+    "version": "1.0.1",
+    "build": "239",
+    "sha": "650808f",
+    "notes": "DEV tray for developer buttons, map button shuffles launch/landing places with a toast, version in settings (#158)",
+    "date": "2026-11-21T06:21:54+00:00",
+    "size": 79066932,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-239-650808f/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-239-650808f/manifest.plist"
+  },
+  {
     "name": "1.0.1-238-afbcaa4",
     "version": "1.0.1",
     "build": "238",
@@ -42,16 +53,5 @@
     "size": 79164841,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-234-4c56ad9/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-234-4c56ad9/manifest.plist"
-  },
-  {
-    "name": "1.0.1-233-7e0ff3b",
-    "version": "1.0.1",
-    "build": "233",
-    "sha": "7e0ff3b",
-    "notes": "",
-    "date": "2026-11-20T15:25:42+00:00",
-    "size": 79165125,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-233-7e0ff3b/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-233-7e0ff3b/manifest.plist"
   }
 ]
