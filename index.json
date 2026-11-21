@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-237-6abe2db",
+    "version": "1.0.1",
+    "build": "237",
+    "sha": "6abe2db",
+    "notes": "Pad scenery reframed across the catalog, Himalayan launches (#156)",
+    "date": "2026-11-21T04:41:41+00:00",
+    "size": 79027158,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-237-6abe2db/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-237-6abe2db/manifest.plist"
+  },
+  {
     "name": "1.0.1-236-4e3d88f",
     "version": "1.0.1",
     "build": "236",
@@ -42,16 +53,5 @@
     "size": 79160534,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-232-78e318c/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-232-78e318c/manifest.plist"
-  },
-  {
-    "name": "1.0.1-231-c90d029",
-    "version": "1.0.1",
-    "build": "231",
-    "sha": "c90d029",
-    "notes": "",
-    "date": "2026-11-20T11:54:30+00:00",
-    "size": 79159748,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-231-c90d029/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-231-c90d029/manifest.plist"
   }
 ]
