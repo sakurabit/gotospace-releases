@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-244-ce2be22",
+    "version": "1.0.1",
+    "build": "244",
+    "sha": "ce2be22",
+    "notes": "Trophy clear of the Duo camera and hidden in flight; faster descent vapor",
+    "date": "2026-11-21T11:57:00+00:00",
+    "size": 72247753,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-244-ce2be22/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-244-ce2be22/manifest.plist"
+  },
+  {
     "name": "1.0.1-243-3ba19b0",
     "version": "1.0.1",
     "build": "243",
@@ -42,16 +53,5 @@
     "size": 79066932,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-239-650808f/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-239-650808f/manifest.plist"
-  },
-  {
-    "name": "1.0.1-238-afbcaa4",
-    "version": "1.0.1",
-    "build": "238",
-    "sha": "afbcaa4",
-    "notes": "Developer settings and launch/landing place picker as a flight deck (#157)",
-    "date": "2026-11-21T04:54:50+00:00",
-    "size": 79077039,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-238-afbcaa4/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-238-afbcaa4/manifest.plist"
   }
 ]
