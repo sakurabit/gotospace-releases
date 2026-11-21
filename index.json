@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-245-7d7f45e",
+    "version": "1.0.1",
+    "build": "245",
+    "sha": "7d7f45e",
+    "notes": "Locked landing holds the booster on the path (dev switch); Everest rises into view",
+    "date": "2026-11-21T12:07:33+00:00",
+    "size": 72249186,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-245-7d7f45e/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-245-7d7f45e/manifest.plist"
+  },
+  {
     "name": "1.0.1-244-ce2be22",
     "version": "1.0.1",
     "build": "244",
@@ -42,16 +53,5 @@
     "size": 79071232,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-240-161660c/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-240-161660c/manifest.plist"
-  },
-  {
-    "name": "1.0.1-239-650808f",
-    "version": "1.0.1",
-    "build": "239",
-    "sha": "650808f",
-    "notes": "DEV tray for developer buttons, map button shuffles launch/landing places with a toast, version in settings (#158)",
-    "date": "2026-11-21T06:21:54+00:00",
-    "size": 79066932,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-239-650808f/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-239-650808f/manifest.plist"
   }
 ]
