@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-247-234206e",
+    "version": "1.0.1",
+    "build": "247",
+    "sha": "234206e",
+    "notes": "Climb to space in about a minute (adjustable in settings)",
+    "date": "2026-11-21T20:44:47+00:00",
+    "size": 72251485,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-247-234206e/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-247-234206e/manifest.plist"
+  },
+  {
     "name": "1.0.1-246-304abc2",
     "version": "1.0.1",
     "build": "246",
@@ -42,16 +53,5 @@
     "size": 72247554,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-243-3ba19b0/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-243-3ba19b0/manifest.plist"
-  },
-  {
-    "name": "1.0.1-242-f443140",
-    "version": "1.0.1",
-    "build": "242",
-    "sha": "f443140",
-    "notes": "Settings in the DEV tray (#160); landmarks beside the rocket, pads matched to terrain (#161)",
-    "date": "2026-11-21T08:35:46+00:00",
-    "size": 72249815,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-242-f443140/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-242-f443140/manifest.plist"
   }
 ]
