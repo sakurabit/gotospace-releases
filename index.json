@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-240-161660c",
+    "version": "1.0.1",
+    "build": "240",
+    "sha": "161660c",
+    "notes": "Everest at summit altitude, side-vent launch pad (#159)",
+    "date": "2026-11-21T06:35:18+00:00",
+    "size": 79071232,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-240-161660c/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-240-161660c/manifest.plist"
+  },
+  {
     "name": "1.0.1-239-650808f",
     "version": "1.0.1",
     "build": "239",
@@ -42,16 +53,5 @@
     "size": 79165274,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-236-4e3d88f/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-236-4e3d88f/manifest.plist"
-  },
-  {
-    "name": "1.0.1-234-4c56ad9",
-    "version": "1.0.1",
-    "build": "234",
-    "sha": "4c56ad9",
-    "notes": "Landing flight home, pad backdrops and panoramas, flame polish, result layout (#116\u2013#153)",
-    "date": "2026-11-20T22:43:49+00:00",
-    "size": 79164841,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-234-4c56ad9/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-234-4c56ad9/manifest.plist"
   }
 ]
