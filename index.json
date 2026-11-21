@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-238-afbcaa4",
+    "version": "1.0.1",
+    "build": "238",
+    "sha": "afbcaa4",
+    "notes": "Developer settings and launch/landing place picker as a flight deck (#157)",
+    "date": "2026-11-21T04:54:50+00:00",
+    "size": 79077039,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-238-afbcaa4/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-238-afbcaa4/manifest.plist"
+  },
+  {
     "name": "1.0.1-237-6abe2db",
     "version": "1.0.1",
     "build": "237",
@@ -42,16 +53,5 @@
     "size": 79165125,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-233-7e0ff3b/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-233-7e0ff3b/manifest.plist"
-  },
-  {
-    "name": "1.0.1-232-78e318c",
-    "version": "1.0.1",
-    "build": "232",
-    "sha": "78e318c",
-    "notes": "",
-    "date": "2026-11-20T15:04:44+00:00",
-    "size": 79160534,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-232-78e318c/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-232-78e318c/manifest.plist"
   }
 ]
