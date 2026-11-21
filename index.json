@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-242-f443140",
+    "version": "1.0.1",
+    "build": "242",
+    "sha": "f443140",
+    "notes": "Settings in the DEV tray (#160); landmarks beside the rocket, pads matched to terrain (#161)",
+    "date": "2026-11-21T08:35:46+00:00",
+    "size": 72249815,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-242-f443140/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-242-f443140/manifest.plist"
+  },
+  {
     "name": "1.0.1-240-161660c",
     "version": "1.0.1",
     "build": "240",
@@ -42,16 +53,5 @@
     "size": 79027158,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-237-6abe2db/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-237-6abe2db/manifest.plist"
-  },
-  {
-    "name": "1.0.1-236-4e3d88f",
-    "version": "1.0.1",
-    "build": "236",
-    "sha": "4e3d88f",
-    "notes": "Locked landing keeps the guide line on the booster (#155); wider panoramas, sky behind pad scenery (#154)",
-    "date": "2026-11-20T23:12:51+00:00",
-    "size": 79165274,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-236-4e3d88f/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-236-4e3d88f/manifest.plist"
   }
 ]
