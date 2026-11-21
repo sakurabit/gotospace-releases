@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-246-304abc2",
+    "version": "1.0.1",
+    "build": "246",
+    "sha": "304abc2",
+    "notes": "Launches from the Himalayas whenever the random pick lands on Everest",
+    "date": "2026-11-21T14:13:45+00:00",
+    "size": 72249242,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-246-304abc2/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-246-304abc2/manifest.plist"
+  },
+  {
     "name": "1.0.1-245-7d7f45e",
     "version": "1.0.1",
     "build": "245",
@@ -42,16 +53,5 @@
     "size": 72249815,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-242-f443140/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-242-f443140/manifest.plist"
-  },
-  {
-    "name": "1.0.1-240-161660c",
-    "version": "1.0.1",
-    "build": "240",
-    "sha": "161660c",
-    "notes": "Everest at summit altitude, side-vent launch pad (#159)",
-    "date": "2026-11-21T06:35:18+00:00",
-    "size": 79071232,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-240-161660c/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-240-161660c/manifest.plist"
   }
 ]
