@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-249-421bc62",
+    "version": "1.0.1",
+    "build": "249",
+    "sha": "421bc62",
+    "notes": "Levels: Cadet, Pilot (from the Himalayas), Commander; SEPARATE after 2 s",
+    "date": "2026-11-23T04:28:36+00:00",
+    "size": 72266780,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-249-421bc62/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-249-421bc62/manifest.plist"
+  },
+  {
     "name": "1.0.1-247-234206e",
     "version": "1.0.1",
     "build": "247",
@@ -42,16 +53,5 @@
     "size": 72247753,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-244-ce2be22/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-244-ce2be22/manifest.plist"
-  },
-  {
-    "name": "1.0.1-243-3ba19b0",
-    "version": "1.0.1",
-    "build": "243",
-    "sha": "3ba19b0",
-    "notes": "Open elevated launch stand under the rocket",
-    "date": "2026-11-21T11:35:37+00:00",
-    "size": 72247554,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-243-3ba19b0/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-243-3ba19b0/manifest.plist"
   }
 ]
