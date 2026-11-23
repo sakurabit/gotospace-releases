@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-250-ce2fc05",
+    "version": "1.0.1",
+    "build": "250",
+    "sha": "ce2fc05",
+    "notes": "Share your flight: after every flight a ~15 s highlight clip (launch, separation, touchdown in slow motion, with music) and a result card are made. Tap the gold share button on the result.",
+    "date": "2026-11-23T19:19:24+00:00",
+    "size": 72329939,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-250-ce2fc05/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-250-ce2fc05/manifest.plist"
+  },
+  {
     "name": "1.0.1-249-421bc62",
     "version": "1.0.1",
     "build": "249",
@@ -42,16 +53,5 @@
     "size": 72249186,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-245-7d7f45e/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-245-7d7f45e/manifest.plist"
-  },
-  {
-    "name": "1.0.1-244-ce2be22",
-    "version": "1.0.1",
-    "build": "244",
-    "sha": "ce2be22",
-    "notes": "Trophy clear of the Duo camera and hidden in flight; faster descent vapor",
-    "date": "2026-11-21T11:57:00+00:00",
-    "size": 72247753,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-244-ce2be22/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-244-ce2be22/manifest.plist"
   }
 ]
