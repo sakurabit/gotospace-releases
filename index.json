@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-253-848432b",
+    "version": "1.0.1",
+    "build": "253",
+    "sha": "848432b",
+    "notes": "A redrawn Everest and foreground ridges in Classic, a photographic Himalayan panorama in Photo, and sun reflections in both looks.",
+    "date": "2026-11-24T16:19:05+00:00",
+    "size": 79308368,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-253-848432b/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-253-848432b/manifest.plist"
+  },
+  {
     "name": "1.0.1-252-8416dac",
     "version": "1.0.1",
     "build": "252",
@@ -42,16 +53,5 @@
     "size": 72266780,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-249-421bc62/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-249-421bc62/manifest.plist"
-  },
-  {
-    "name": "1.0.1-247-234206e",
-    "version": "1.0.1",
-    "build": "247",
-    "sha": "234206e",
-    "notes": "Climb to space in about a minute (adjustable in settings)",
-    "date": "2026-11-21T20:44:47+00:00",
-    "size": 72251485,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-247-234206e/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-247-234206e/manifest.plist"
   }
 ]
