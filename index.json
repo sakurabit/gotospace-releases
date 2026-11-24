@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-254-90689c3",
+    "version": "1.0.1",
+    "build": "254",
+    "sha": "90689c3",
+    "notes": "Landing site without the base: just the pad, the crew, the backdrop and the ground",
+    "date": "2026-11-24T16:24:36+00:00",
+    "size": 79305546,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-254-90689c3/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-254-90689c3/manifest.plist"
+  },
+  {
     "name": "1.0.1-253-848432b",
     "version": "1.0.1",
     "build": "253",
@@ -42,16 +53,5 @@
     "size": 72329939,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-250-ce2fc05/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-250-ce2fc05/manifest.plist"
-  },
-  {
-    "name": "1.0.1-249-421bc62",
-    "version": "1.0.1",
-    "build": "249",
-    "sha": "421bc62",
-    "notes": "Levels: Cadet, Pilot (from the Himalayas), Commander; SEPARATE after 2 s",
-    "date": "2026-11-23T04:28:36+00:00",
-    "size": 72266780,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-249-421bc62/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-249-421bc62/manifest.plist"
   }
 ]
