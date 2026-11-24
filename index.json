@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-251-e58dec9",
+    "version": "1.0.1",
+    "build": "251",
+    "sha": "e58dec9",
+    "notes": "Pilot launches from a random place, like every level",
+    "date": "2026-11-24T15:11:48+00:00",
+    "size": 72329793,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-251-e58dec9/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-251-e58dec9/manifest.plist"
+  },
+  {
     "name": "1.0.1-250-ce2fc05",
     "version": "1.0.1",
     "build": "250",
@@ -42,16 +53,5 @@
     "size": 72249242,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-246-304abc2/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-246-304abc2/manifest.plist"
-  },
-  {
-    "name": "1.0.1-245-7d7f45e",
-    "version": "1.0.1",
-    "build": "245",
-    "sha": "7d7f45e",
-    "notes": "Locked landing holds the booster on the path (dev switch); Everest rises into view",
-    "date": "2026-11-21T12:07:33+00:00",
-    "size": 72249186,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-245-7d7f45e/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-245-7d7f45e/manifest.plist"
   }
 ]
