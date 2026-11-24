@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-252-8416dac",
+    "version": "1.0.1",
+    "build": "252",
+    "sha": "8416dac",
+    "notes": "Level picker moved to the developer panel; Commander can drift off the launch line too",
+    "date": "2026-11-24T15:57:19+00:00",
+    "size": 72323468,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-252-8416dac/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-252-8416dac/manifest.plist"
+  },
+  {
     "name": "1.0.1-251-e58dec9",
     "version": "1.0.1",
     "build": "251",
@@ -42,16 +53,5 @@
     "size": 72251485,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-247-234206e/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-247-234206e/manifest.plist"
-  },
-  {
-    "name": "1.0.1-246-304abc2",
-    "version": "1.0.1",
-    "build": "246",
-    "sha": "304abc2",
-    "notes": "Launches from the Himalayas whenever the random pick lands on Everest",
-    "date": "2026-11-21T14:13:45+00:00",
-    "size": 72249242,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-246-304abc2/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-246-304abc2/manifest.plist"
   }
 ]
