@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-256-63de692",
+    "version": "1.0.1",
+    "build": "256",
+    "sha": "63de692",
+    "notes": "Grid fin faces show while steering; more detail on the returning booster",
+    "date": "2026-11-25T05:36:22+00:00",
+    "size": 79320370,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-256-63de692/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-256-63de692/manifest.plist"
+  },
+  {
     "name": "1.0.1-255-877a1c9",
     "version": "1.0.1",
     "build": "255",
@@ -42,16 +53,5 @@
     "size": 72323468,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-252-8416dac/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-252-8416dac/manifest.plist"
-  },
-  {
-    "name": "1.0.1-251-e58dec9",
-    "version": "1.0.1",
-    "build": "251",
-    "sha": "e58dec9",
-    "notes": "Pilot launches from a random place, like every level",
-    "date": "2026-11-24T15:11:48+00:00",
-    "size": 72329793,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-251-e58dec9/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-251-e58dec9/manifest.plist"
   }
 ]
