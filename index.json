@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-255-877a1c9",
+    "version": "1.0.1",
+    "build": "255",
+    "sha": "877a1c9",
+    "notes": "The sun stays still on the climb instead of moving with the rocket",
+    "date": "2026-11-25T03:20:12+00:00",
+    "size": 79305663,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-255-877a1c9/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-255-877a1c9/manifest.plist"
+  },
+  {
     "name": "1.0.1-254-90689c3",
     "version": "1.0.1",
     "build": "254",
@@ -42,16 +53,5 @@
     "size": 72329793,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-251-e58dec9/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-251-e58dec9/manifest.plist"
-  },
-  {
-    "name": "1.0.1-250-ce2fc05",
-    "version": "1.0.1",
-    "build": "250",
-    "sha": "ce2fc05",
-    "notes": "Share your flight: after every flight a ~15 s highlight clip (launch, separation, touchdown in slow motion, with music) and a result card are made. Tap the gold share button on the result.",
-    "date": "2026-11-23T19:19:24+00:00",
-    "size": 72329939,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-250-ce2fc05/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-250-ce2fc05/manifest.plist"
   }
 ]
