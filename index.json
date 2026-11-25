@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-257-494eb5c",
+    "version": "1.0.1",
+    "build": "257",
+    "sha": "494eb5c",
+    "notes": "The whole result card stays visible above the name keyboard",
+    "date": "2026-11-25T08:26:19+00:00",
+    "size": 79320399,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-257-494eb5c/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-257-494eb5c/manifest.plist"
+  },
+  {
     "name": "1.0.1-256-63de692",
     "version": "1.0.1",
     "build": "256",
@@ -42,16 +53,5 @@
     "size": 79308368,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-253-848432b/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-253-848432b/manifest.plist"
-  },
-  {
-    "name": "1.0.1-252-8416dac",
-    "version": "1.0.1",
-    "build": "252",
-    "sha": "8416dac",
-    "notes": "Level picker moved to the developer panel; Commander can drift off the launch line too",
-    "date": "2026-11-24T15:57:19+00:00",
-    "size": 72323468,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-252-8416dac/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-252-8416dac/manifest.plist"
   }
 ]
