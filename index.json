@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-260-5282f60",
+    "version": "1.0.1",
+    "build": "260",
+    "sha": "5282f60",
+    "notes": "Teach one-thumb steering on both sides during practice (#179)",
+    "date": "2026-11-26T15:54:26+00:00",
+    "size": 94996775,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-260-5282f60/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-260-5282f60/manifest.plist"
+  },
+  {
     "name": "1.0.1-259-ed681e9",
     "version": "1.0.1",
     "build": "259",
@@ -42,16 +53,5 @@
     "size": 79320370,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-256-63de692/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-256-63de692/manifest.plist"
-  },
-  {
-    "name": "1.0.1-255-877a1c9",
-    "version": "1.0.1",
-    "build": "255",
-    "sha": "877a1c9",
-    "notes": "The sun stays still on the climb instead of moving with the rocket",
-    "date": "2026-11-25T03:20:12+00:00",
-    "size": 79305663,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-255-877a1c9/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-255-877a1c9/manifest.plist"
   }
 ]
