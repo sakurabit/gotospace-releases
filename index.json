@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-259-ed681e9",
+    "version": "1.0.1",
+    "build": "259",
+    "sha": "ed681e9",
+    "notes": "Redraw launch landmarks and frame scenery beside the rocket (#178)",
+    "date": "2026-11-26T13:37:43+00:00",
+    "size": 94935708,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-259-ed681e9/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-259-ed681e9/manifest.plist"
+  },
+  {
     "name": "1.0.1-258-677832d",
     "version": "1.0.1",
     "build": "258",
@@ -42,16 +53,5 @@
     "size": 79305663,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-255-877a1c9/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-255-877a1c9/manifest.plist"
-  },
-  {
-    "name": "1.0.1-254-90689c3",
-    "version": "1.0.1",
-    "build": "254",
-    "sha": "90689c3",
-    "notes": "Landing site without the base: just the pad, the crew, the backdrop and the ground",
-    "date": "2026-11-24T16:24:36+00:00",
-    "size": 79305546,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-254-90689c3/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-254-90689c3/manifest.plist"
   }
 ]
