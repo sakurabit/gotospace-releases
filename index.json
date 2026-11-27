@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-280-0e2e88d",
+    "version": "1.0.1",
+    "build": "280",
+    "sha": "0e2e88d",
+    "notes": "Duo hinge: the sign card is back at the top and the name keyboard fills the bottom half with full-size keys",
+    "date": "2026-11-27T14:58:07+00:00",
+    "size": 95091531,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-280-0e2e88d/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-280-0e2e88d/manifest.plist"
+  },
+  {
     "name": "1.0.1-277-ecf72c3",
     "version": "1.0.1",
     "build": "277",
@@ -42,16 +53,5 @@
     "size": 95061414,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-274-cd15f67/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-274-cd15f67/manifest.plist"
-  },
-  {
-    "name": "1.0.1-272-0e26dbb",
-    "version": "1.0.1",
-    "build": "272",
-    "sha": "0e26dbb",
-    "notes": "The landing flame, splash and glow now come out of the engine's lip at the deck, not from behind the booster.",
-    "date": "2026-11-27T05:13:17+00:00",
-    "size": 95022154,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-272-0e26dbb/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-272-0e26dbb/manifest.plist"
   }
 ]
