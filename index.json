@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-268-ee33990",
+    "version": "1.0.1",
+    "build": "268",
+    "sha": "ee33990",
+    "notes": "Two seconds on one leg before it gives way (rules 29). The flame winds down over 1.5 s after touchdown.",
+    "date": "2026-11-27T03:50:51+00:00",
+    "size": 95009265,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-268-ee33990/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-268-ee33990/manifest.plist"
+  },
+  {
     "name": "1.0.1-266-df327fe",
     "version": "1.0.1",
     "build": "266",
@@ -42,16 +53,5 @@
     "size": 95004243,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-262-4a62e2e/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-262-4a62e2e/manifest.plist"
-  },
-  {
-    "name": "1.0.1-261-574a730",
-    "version": "1.0.1",
-    "build": "261",
-    "sha": "574a730",
-    "notes": "Dev panel: start a flight from any stage, down to 10 s before touchdown (#180)",
-    "date": "2026-11-27T00:29:59+00:00",
-    "size": 95000527,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-261-574a730/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-261-574a730/manifest.plist"
   }
 ]
