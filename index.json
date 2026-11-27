@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-277-ecf72c3",
+    "version": "1.0.1",
+    "build": "277",
+    "sha": "ecf72c3",
+    "notes": "On the half-open Duo, the name keyboard's keys are bigger and fill the bottom half",
+    "date": "2026-11-27T09:54:41+00:00",
+    "size": 95066718,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-277-ecf72c3/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-277-ecf72c3/manifest.plist"
+  },
+  {
     "name": "1.0.1-276-1275f94",
     "version": "1.0.1",
     "build": "276",
@@ -42,16 +53,5 @@
     "size": 95022154,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-272-0e26dbb/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-272-0e26dbb/manifest.plist"
-  },
-  {
-    "name": "1.0.1-270-1eadecd",
-    "version": "1.0.1",
-    "build": "270",
-    "sha": "1eadecd",
-    "notes": "After touchdown the engine winds down over 1.5 s, handing the weight to the legs and levering a leaning booster onto both legs (rules 30).",
-    "date": "2026-11-27T04:33:20+00:00",
-    "size": 95009284,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-270-1eadecd/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-270-1eadecd/manifest.plist"
   }
 ]
