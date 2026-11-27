@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-265-d33e20b",
+    "version": "1.0.1",
+    "build": "265",
+    "sha": "d33e20b",
+    "notes": "The green touchdown marker now disappears once the feet are down, so the legs' flex and a leg giving way are visible.",
+    "date": "2026-11-27T02:10:32+00:00",
+    "size": 95005922,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-265-d33e20b/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-265-d33e20b/manifest.plist"
+  },
+  {
     "name": "1.0.1-264-f2c4b61",
     "version": "1.0.1",
     "build": "264",
@@ -42,16 +53,5 @@
     "size": 94996775,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-260-5282f60/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-260-5282f60/manifest.plist"
-  },
-  {
-    "name": "1.0.1-259-ed681e9",
-    "version": "1.0.1",
-    "build": "259",
-    "sha": "ed681e9",
-    "notes": "Redraw launch landmarks and frame scenery beside the rocket (#178)",
-    "date": "2026-11-26T13:37:43+00:00",
-    "size": 94935708,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-259-ed681e9/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-259-ed681e9/manifest.plist"
   }
 ]
