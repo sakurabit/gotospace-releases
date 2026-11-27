@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-261-574a730",
+    "version": "1.0.1",
+    "build": "261",
+    "sha": "574a730",
+    "notes": "Dev panel: start a flight from any stage, down to 10 s before touchdown (#180)",
+    "date": "2026-11-27T00:29:59+00:00",
+    "size": 95000527,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-261-574a730/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-261-574a730/manifest.plist"
+  },
+  {
     "name": "1.0.1-260-5282f60",
     "version": "1.0.1",
     "build": "260",
@@ -42,16 +53,5 @@
     "size": 79320399,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-257-494eb5c/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-257-494eb5c/manifest.plist"
-  },
-  {
-    "name": "1.0.1-256-63de692",
-    "version": "1.0.1",
-    "build": "256",
-    "sha": "63de692",
-    "notes": "Grid fin faces show while steering; more detail on the returning booster",
-    "date": "2026-11-25T05:36:22+00:00",
-    "size": 79320370,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-256-63de692/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-256-63de692/manifest.plist"
   }
 ]
