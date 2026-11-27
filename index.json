@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-270-1eadecd",
+    "version": "1.0.1",
+    "build": "270",
+    "sha": "1eadecd",
+    "notes": "After touchdown the engine winds down over 1.5 s, handing the weight to the legs and levering a leaning booster onto both legs (rules 30).",
+    "date": "2026-11-27T04:33:20+00:00",
+    "size": 95009284,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-270-1eadecd/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-270-1eadecd/manifest.plist"
+  },
+  {
     "name": "1.0.1-268-ee33990",
     "version": "1.0.1",
     "build": "268",
@@ -42,16 +53,5 @@
     "size": 95005919,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-264-f2c4b61/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-264-f2c4b61/manifest.plist"
-  },
-  {
-    "name": "1.0.1-262-4a62e2e",
-    "version": "1.0.1",
-    "build": "262",
-    "sha": "4a62e2e",
-    "notes": "Landing flame flares over the pad, with more dust and sparks (#181)",
-    "date": "2026-11-27T00:40:17+00:00",
-    "size": 95004243,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-262-4a62e2e/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-262-4a62e2e/manifest.plist"
   }
 ]
