@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-262-4a62e2e",
+    "version": "1.0.1",
+    "build": "262",
+    "sha": "4a62e2e",
+    "notes": "Landing flame flares over the pad, with more dust and sparks (#181)",
+    "date": "2026-11-27T00:40:17+00:00",
+    "size": 95004243,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-262-4a62e2e/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-262-4a62e2e/manifest.plist"
+  },
+  {
     "name": "1.0.1-261-574a730",
     "version": "1.0.1",
     "build": "261",
@@ -42,16 +53,5 @@
     "size": 94923260,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-258-677832d/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-258-677832d/manifest.plist"
-  },
-  {
-    "name": "1.0.1-257-494eb5c",
-    "version": "1.0.1",
-    "build": "257",
-    "sha": "494eb5c",
-    "notes": "The whole result card stays visible above the name keyboard",
-    "date": "2026-11-25T08:26:19+00:00",
-    "size": 79320399,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-257-494eb5c/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-257-494eb5c/manifest.plist"
   }
 ]
