@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-275-566d6c9",
+    "version": "1.0.1",
+    "build": "275",
+    "sha": "566d6c9",
+    "notes": "On the half-open Duo, the name keyboard comes up below the hinge",
+    "date": "2026-11-27T09:11:16+00:00",
+    "size": 95062415,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-275-566d6c9/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-275-566d6c9/manifest.plist"
+  },
+  {
     "name": "1.0.1-274-cd15f67",
     "version": "1.0.1",
     "build": "274",
@@ -42,16 +53,5 @@
     "size": 95009265,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-268-ee33990/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-268-ee33990/manifest.plist"
-  },
-  {
-    "name": "1.0.1-266-df327fe",
-    "version": "1.0.1",
-    "build": "266",
-    "sha": "df327fe",
-    "notes": "Leaning landings: touches down on the low foot and rocks about it onto the other leg (no more sudden tilt). Rules 28.",
-    "date": "2026-11-27T02:23:45+00:00",
-    "size": 95006560,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-266-df327fe/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-266-df327fe/manifest.plist"
   }
 ]
