@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-266-df327fe",
+    "version": "1.0.1",
+    "build": "266",
+    "sha": "df327fe",
+    "notes": "Leaning landings: touches down on the low foot and rocks about it onto the other leg (no more sudden tilt). Rules 28.",
+    "date": "2026-11-27T02:23:45+00:00",
+    "size": 95006560,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-266-df327fe/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-266-df327fe/manifest.plist"
+  },
+  {
     "name": "1.0.1-265-d33e20b",
     "version": "1.0.1",
     "build": "265",
@@ -42,16 +53,5 @@
     "size": 95000527,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-261-574a730/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-261-574a730/manifest.plist"
-  },
-  {
-    "name": "1.0.1-260-5282f60",
-    "version": "1.0.1",
-    "build": "260",
-    "sha": "5282f60",
-    "notes": "Teach one-thumb steering on both sides during practice (#179)",
-    "date": "2026-11-26T15:54:26+00:00",
-    "size": 94996775,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-260-5282f60/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-260-5282f60/manifest.plist"
   }
 ]
