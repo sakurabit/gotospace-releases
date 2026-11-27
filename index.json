@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-276-1275f94",
+    "version": "1.0.1",
+    "build": "276",
+    "sha": "1275f94",
+    "notes": "On the half-open Duo, the sign card and keyboard both sit below the hinge",
+    "date": "2026-11-27T09:18:16+00:00",
+    "size": 95065191,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-276-1275f94/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-276-1275f94/manifest.plist"
+  },
+  {
     "name": "1.0.1-275-566d6c9",
     "version": "1.0.1",
     "build": "275",
@@ -42,16 +53,5 @@
     "size": 95009284,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-270-1eadecd/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-270-1eadecd/manifest.plist"
-  },
-  {
-    "name": "1.0.1-268-ee33990",
-    "version": "1.0.1",
-    "build": "268",
-    "sha": "ee33990",
-    "notes": "Two seconds on one leg before it gives way (rules 29). The flame winds down over 1.5 s after touchdown.",
-    "date": "2026-11-27T03:50:51+00:00",
-    "size": 95009265,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-268-ee33990/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-268-ee33990/manifest.plist"
   }
 ]
