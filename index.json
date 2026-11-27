@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-274-cd15f67",
+    "version": "1.0.1",
+    "build": "274",
+    "sha": "cd15f67",
+    "notes": "Landing glow, jet and sparks stay under the bells' lip",
+    "date": "2026-11-27T08:30:05+00:00",
+    "size": 95061411,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-274-cd15f67/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-274-cd15f67/manifest.plist"
+  },
+  {
     "name": "1.0.1-272-0e26dbb",
     "version": "1.0.1",
     "build": "272",
@@ -42,16 +53,5 @@
     "size": 95006560,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-266-df327fe/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-266-df327fe/manifest.plist"
-  },
-  {
-    "name": "1.0.1-265-d33e20b",
-    "version": "1.0.1",
-    "build": "265",
-    "sha": "d33e20b",
-    "notes": "The green touchdown marker now disappears once the feet are down, so the legs' flex and a leg giving way are visible.",
-    "date": "2026-11-27T02:10:32+00:00",
-    "size": 95005922,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-265-d33e20b/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-265-d33e20b/manifest.plist"
   }
 ]
