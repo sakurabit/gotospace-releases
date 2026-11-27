@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-272-0e26dbb",
+    "version": "1.0.1",
+    "build": "272",
+    "sha": "0e26dbb",
+    "notes": "The landing flame, splash and glow now come out of the engine's lip at the deck, not from behind the booster.",
+    "date": "2026-11-27T05:13:17+00:00",
+    "size": 95022154,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-272-0e26dbb/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-272-0e26dbb/manifest.plist"
+  },
+  {
     "name": "1.0.1-270-1eadecd",
     "version": "1.0.1",
     "build": "270",
@@ -42,16 +53,5 @@
     "size": 95005922,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-265-d33e20b/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-265-d33e20b/manifest.plist"
-  },
-  {
-    "name": "1.0.1-264-f2c4b61",
-    "version": "1.0.1",
-    "build": "264",
-    "sha": "f2c4b61",
-    "notes": "Landing legs: a very stiff spring that gives a few cm on touchdown. Standing on one leg for more than a second makes it fold and the booster explodes (rules 27).",
-    "date": "2026-11-27T02:01:09+00:00",
-    "size": 95005919,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-264-f2c4b61/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-264-f2c4b61/manifest.plist"
   }
 ]
