@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-282-07f61b8",
+    "version": "1.0.1",
+    "build": "282",
+    "sha": "07f61b8",
+    "notes": "Practice: one balance goal with both thumbs; the lit thumb is the one that balances the rocket",
+    "date": "2026-11-28T03:33:29+00:00",
+    "size": 95092320,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-282-07f61b8/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-282-07f61b8/manifest.plist"
+  },
+  {
     "name": "1.0.1-281-2391013",
     "version": "1.0.1",
     "build": "281",
@@ -42,16 +53,5 @@
     "size": 95065191,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-276-1275f94/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-276-1275f94/manifest.plist"
-  },
-  {
-    "name": "1.0.1-275-566d6c9",
-    "version": "1.0.1",
-    "build": "275",
-    "sha": "566d6c9",
-    "notes": "On the half-open Duo, the name keyboard comes up below the hinge",
-    "date": "2026-11-27T09:11:16+00:00",
-    "size": 95062415,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-275-566d6c9/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-275-566d6c9/manifest.plist"
   }
 ]
