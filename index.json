@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-288-d3f63d1",
+    "version": "1.0.1",
+    "build": "288",
+    "sha": "d3f63d1",
+    "notes": "Practice bar moves whenever the rocket is straight, thumb down or not.",
+    "date": "2026-11-28T13:05:26+00:00",
+    "size": 95089528,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-288-d3f63d1/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-288-d3f63d1/manifest.plist"
+  },
+  {
     "name": "1.0.1-287-4e035a1",
     "version": "1.0.1",
     "build": "287",
@@ -42,16 +53,5 @@
     "size": 95112482,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-284-bd5705f/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-284-bd5705f/manifest.plist"
-  },
-  {
-    "name": "1.0.1-283-adcc095",
-    "version": "1.0.1",
-    "build": "283",
-    "sha": "adcc095",
-    "notes": "Practice is one goal: keep the rocket pointing up. Only the thumb to press shows.",
-    "date": "2026-11-28T10:13:35+00:00",
-    "size": 95089356,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-283-adcc095/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-283-adcc095/manifest.plist"
   }
 ]
