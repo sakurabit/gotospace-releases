@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-281-2391013",
+    "version": "1.0.1",
+    "build": "281",
+    "sha": "2391013",
+    "notes": "Practice: both thumbs show together from the start; the one to press is lit, the other faded",
+    "date": "2026-11-28T03:25:14+00:00",
+    "size": 95092630,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-281-2391013/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-281-2391013/manifest.plist"
+  },
+  {
     "name": "1.0.1-280-0e2e88d",
     "version": "1.0.1",
     "build": "280",
@@ -42,16 +53,5 @@
     "size": 95062415,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-275-566d6c9/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-275-566d6c9/manifest.plist"
-  },
-  {
-    "name": "1.0.1-274-cd15f67",
-    "version": "1.0.1",
-    "build": "274",
-    "sha": "cd15f67",
-    "notes": "Landing glow, jet and sparks stay under the bells' lip",
-    "date": "2026-11-27T08:42:38+00:00",
-    "size": 95061414,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-274-cd15f67/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-274-cd15f67/manifest.plist"
   }
 ]
