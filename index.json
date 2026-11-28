@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-286-6ef8918",
+    "version": "1.0.1",
+    "build": "286",
+    "sha": "6ef8918",
+    "notes": "Practice bar moves only while the rocket is straight; the pad comes ~1.5 s after it fills.",
+    "date": "2026-11-28T10:37:46+00:00",
+    "size": 95089478,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-286-6ef8918/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-286-6ef8918/manifest.plist"
+  },
+  {
     "name": "1.0.1-285-7ee9c88",
     "version": "1.0.1",
     "build": "285",
@@ -42,16 +53,5 @@
     "size": 95092320,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-282-07f61b8/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-282-07f61b8/manifest.plist"
-  },
-  {
-    "name": "1.0.1-281-2391013",
-    "version": "1.0.1",
-    "build": "281",
-    "sha": "2391013",
-    "notes": "Practice: both thumbs show together from the start; the one to press is lit, the other faded",
-    "date": "2026-11-28T03:25:14+00:00",
-    "size": 95092630,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-281-2391013/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-281-2391013/manifest.plist"
   }
 ]
