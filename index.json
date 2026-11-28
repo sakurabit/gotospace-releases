@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-287-4e035a1",
+    "version": "1.0.1",
+    "build": "287",
+    "sha": "4e035a1",
+    "notes": "Practice needs 5 straight seconds in a row; a side gust knocks the rocket off balance at the start.",
+    "date": "2026-11-28T12:01:09+00:00",
+    "size": 95089599,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-287-4e035a1/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-287-4e035a1/manifest.plist"
+  },
+  {
     "name": "1.0.1-286-6ef8918",
     "version": "1.0.1",
     "build": "286",
@@ -42,16 +53,5 @@
     "size": 95089356,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-283-adcc095/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-283-adcc095/manifest.plist"
-  },
-  {
-    "name": "1.0.1-282-07f61b8",
-    "version": "1.0.1",
-    "build": "282",
-    "sha": "07f61b8",
-    "notes": "Practice: one balance goal with both thumbs; the lit thumb is the one that balances the rocket",
-    "date": "2026-11-28T03:33:29+00:00",
-    "size": 95092320,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-282-07f61b8/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-282-07f61b8/manifest.plist"
   }
 ]
