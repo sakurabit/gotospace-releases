@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-283-adcc095",
+    "version": "1.0.1",
+    "build": "283",
+    "sha": "adcc095",
+    "notes": "Practice is one goal: keep the rocket pointing up. Only the thumb to press shows.",
+    "date": "2026-11-28T10:13:35+00:00",
+    "size": 95089356,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-283-adcc095/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-283-adcc095/manifest.plist"
+  },
+  {
     "name": "1.0.1-282-07f61b8",
     "version": "1.0.1",
     "build": "282",
@@ -42,16 +53,5 @@
     "size": 95066718,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-277-ecf72c3/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-277-ecf72c3/manifest.plist"
-  },
-  {
-    "name": "1.0.1-276-1275f94",
-    "version": "1.0.1",
-    "build": "276",
-    "sha": "1275f94",
-    "notes": "On the half-open Duo, the sign card and keyboard both sit below the hinge",
-    "date": "2026-11-27T09:18:16+00:00",
-    "size": 95065191,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-276-1275f94/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-276-1275f94/manifest.plist"
   }
 ]
