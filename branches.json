@@ -1,0 +1,14 @@
+[
+  {
+    "branch": "codex/flight-contracts-career",
+    "name": "codex-flight-contracts-career-d79c2d29f2",
+    "version": "1.0.1",
+    "build": "289",
+    "sha": "a8e77474cf2e7ea71c9f67eb80d71c7f893cbced",
+    "size": 95201046,
+    "notes": "Mission Control with 17 flight contracts, Landing School, booster history and friend challenges.",
+    "date": "2026-11-28T14:18:16+00:00",
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/55225cd9a4b9755838f5df3fb159f0890f31faf4/channels/codex-flight-contracts-career-d79c2d29f2/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/channels/codex-flight-contracts-career-d79c2d29f2/manifest.plist"
+  }
+]
