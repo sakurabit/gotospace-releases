@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-284-bd5705f",
+    "version": "1.0.1",
+    "build": "284",
+    "sha": "bd5705f",
+    "notes": "Practice hint is a thumb, the same as the phone grip drawing.",
+    "date": "2026-11-28T10:20:19+00:00",
+    "size": 95112482,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-284-bd5705f/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-284-bd5705f/manifest.plist"
+  },
+  {
     "name": "1.0.1-283-adcc095",
     "version": "1.0.1",
     "build": "283",
@@ -42,16 +53,5 @@
     "size": 95091531,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-280-0e2e88d/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-280-0e2e88d/manifest.plist"
-  },
-  {
-    "name": "1.0.1-277-ecf72c3",
-    "version": "1.0.1",
-    "build": "277",
-    "sha": "ecf72c3",
-    "notes": "On the half-open Duo, the name keyboard's keys are bigger and fill the bottom half",
-    "date": "2026-11-27T09:54:41+00:00",
-    "size": 95066718,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-277-ecf72c3/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-277-ecf72c3/manifest.plist"
   }
 ]
