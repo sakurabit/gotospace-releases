@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-289-f58bc20",
+    "version": "1.0.1",
+    "build": "289",
+    "sha": "f58bc20",
+    "notes": "Practice card stays put when the hint text changes.",
+    "date": "2026-11-28T13:29:03+00:00",
+    "size": 95090695,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-289-f58bc20/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-289-f58bc20/manifest.plist"
+  },
+  {
     "name": "1.0.1-288-d3f63d1",
     "version": "1.0.1",
     "build": "288",
@@ -42,16 +53,5 @@
     "size": 95089359,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-285-7ee9c88/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-285-7ee9c88/manifest.plist"
-  },
-  {
-    "name": "1.0.1-284-bd5705f",
-    "version": "1.0.1",
-    "build": "284",
-    "sha": "bd5705f",
-    "notes": "Practice hint is a thumb, the same as the phone grip drawing.",
-    "date": "2026-11-28T10:20:19+00:00",
-    "size": 95112482,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-284-bd5705f/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-284-bd5705f/manifest.plist"
   }
 ]
