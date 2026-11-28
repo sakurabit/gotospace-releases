@@ -1,5 +1,16 @@
 [
   {
+    "name": "1.0.1-290-1761c79",
+    "version": "1.0.1",
+    "build": "290",
+    "sha": "1761c79",
+    "notes": "Practice counts only after you right the rocket; no opening gust; dev toggle Practice every launch.",
+    "date": "2026-11-28T13:37:29+00:00",
+    "size": 95091391,
+    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-290-1761c79/GoToSpace.ipa",
+    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-290-1761c79/manifest.plist"
+  },
+  {
     "name": "1.0.1-289-f58bc20",
     "version": "1.0.1",
     "build": "289",
@@ -42,16 +53,5 @@
     "size": 95089478,
     "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-286-6ef8918/GoToSpace.ipa",
     "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-286-6ef8918/manifest.plist"
-  },
-  {
-    "name": "1.0.1-285-7ee9c88",
-    "version": "1.0.1",
-    "build": "285",
-    "sha": "7ee9c88",
-    "notes": "Practice hint is the pointing finger again.",
-    "date": "2026-11-28T10:26:12+00:00",
-    "size": 95089359,
-    "ipa": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-285-7ee9c88/GoToSpace.ipa",
-    "manifest": "https://raw.githubusercontent.com/sakurabit/gotospace-releases/main/builds/1.0.1-285-7ee9c88/manifest.plist"
   }
 ]
